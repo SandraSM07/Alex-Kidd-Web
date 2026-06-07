@@ -20,7 +20,7 @@ author: Sandra Salvador Montañez
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About the game: "aboutme"
   Project Features: "extra"
   Resources: 
   - Video Gameplay: "https://www.youtube.com/watch?v=pf0fW8ifdFQ"
