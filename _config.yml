@@ -21,10 +21,7 @@ author: Sandra Salvador Montañez
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Project Contributions: "extra"
 
 ################
 # --- Logo --- #
