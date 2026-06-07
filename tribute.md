@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the game
+title: Tribute
 ---
 
 ## Team members
