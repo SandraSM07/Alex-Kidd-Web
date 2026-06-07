@@ -1,3 +1,8 @@
+---
+layout: page
+title: About the game
+---
+
 ## Team members
 - Sandra Salvador Montañez
 - Alberto Blanco
