@@ -22,6 +22,9 @@ author: Sandra Salvador Montañez
 navbar-links:
   About Me: "aboutme"
   Project Features: "extra"
+  Resources: 
+    Video Gameplay: "https://www.youtube.com/watch?v=pf0fW8ifdFQ"
+    Download Game: "https://github.com/MartinaBarnes/alex-kidd-project/releases"
 
 ################
 # --- Logo --- #
