@@ -1,4 +1,3 @@
-## Project Features
 - Classic platforming gameplay inspired by Alex Kidd.
 - Multiple levels and enemies.
 - Collectible items.
